@@ -1,0 +1,31 @@
+img {
+    width: 7%;
+    height: auto;
+    bottom: 50%;
+
+}
+
+.titre {
+    color: #d0826f;
+}
+
+.soustitre {
+    color: #3b4358;
+}
+
+body {
+    background-color: #dfe0e0;
+}
+
+a {
+    text-decoration: none;
+}
+#photoaligne {
+    display: flex;
+    align-items: center;
+    margin-top: 1%;
+}
+p {
+    margin-right: 1%;
+
+}
